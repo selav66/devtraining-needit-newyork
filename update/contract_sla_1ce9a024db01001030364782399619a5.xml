@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="contract_sla">
     <contract_sla action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <cancel_condition/>
         <collection>incident</collection>
         <condition_class/>
@@ -34,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1ce9a024db01001030364782399619a5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>SL_Priority 1 response - Non Business</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -42,7 +42,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>contract_sla_1ce9a024db01001030364782399619a5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-07 20:59:48</sys_updated_on>
+        <sys_updated_on>2019-12-19 19:28:12</sys_updated_on>
         <target>response</target>
         <timezone>Canada/Eastern</timezone>
         <timezone_source>sla.timezone</timezone_source>

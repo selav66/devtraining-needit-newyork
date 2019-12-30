@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="SL_CSV_Tivoli" max_length="40" name="x_58872_needit_sl_csv_tivoli_kmarticles" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ACTIVE" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ADD_DATE" max_length="40" name="u_add_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ADD_TIME" max_length="40" name="u_add_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ADD_USER_ID" max_length="40" name="u_add_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="COMPONENT" max_length="40" name="u_component" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DESCRIPTION" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_DATE1" max_length="40" name="u_flx_sol_date1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_DATE2" max_length="40" name="u_flx_sol_date2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_INT1" max_length="40" name="u_flx_sol_int1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_INT2" max_length="40" name="u_flx_sol_int2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_INT3" max_length="40" name="u_flx_sol_int3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_INT4" max_length="40" name="u_flx_sol_int4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_TIME1" max_length="40" name="u_flx_sol_time1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_TIME2" max_length="40" name="u_flx_sol_time2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_VCHR1" max_length="40" name="u_flx_sol_vchr1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_VCHR2" max_length="40" name="u_flx_sol_vchr2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_VCHR3" max_length="40" name="u_flx_sol_vchr3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FLX_SOL_VCHR4" max_length="40" name="u_flx_sol_vchr4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ITEM" max_length="40" name="u_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LAST_USED_DATE" max_length="40" name="u_last_used_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LAST_USED_TIME" max_length="40" name="u_last_used_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MODIFY_DATETIME" max_length="40" name="u_modify_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MODULE" max_length="40" name="u_module" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ORGANIZATION_ID" max_length="40" name="u_organization_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PROBLEM_ID" max_length="40" name="u_problem_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PROBLEM_TYPE" max_length="40" name="u_problem_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SECURITY" max_length="40" name="u_security" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SEND_DATETIME" max_length="40" name="u_send_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SEVERITY" max_length="40" name="u_severity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SOLUTION" max_length="40" name="u_solution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SOLUTION_ID" max_length="40" name="u_solution_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SYSTEM" max_length="40" name="u_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="USAGE_COUNT" max_length="40" name="u_usage_count" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------" label="--------------------------------------------------------------------------------" max_length="842" name="u____________________________" type="string"/>
+    </element>
+</database>

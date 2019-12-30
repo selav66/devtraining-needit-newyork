@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_modify_datetime" label="MODIFY_DATETIME" language="en" table="x_58872_needit_sl_csv_tivoli_kmarticles">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_modify_datetime</element>
+            <help/>
+            <hint/>
+            <label>MODIFY_DATETIME</label>
+            <language>en</language>
+            <name>x_58872_needit_sl_csv_tivoli_kmarticles</name>
+            <plural>MODIFY_DATETIMEs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-25 18:30:46</sys_created_on>
+            <sys_id>da3db01adb15001030364782399619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MODIFY_DATETIME</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_sl_csv_tivoli_kmarticles_u_modify_datetime_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-25 18:30:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

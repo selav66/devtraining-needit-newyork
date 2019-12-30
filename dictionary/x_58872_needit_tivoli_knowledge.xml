@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="SL_TIvoli_XML" max_length="40" name="x_58872_needit_tivoli_knowledge" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ACTIVE" label="ACTIVE" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADD_DATE" label="ADD_DATE" max_length="40" name="u_add_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADD_TIME" label="ADD_TIME" max_length="40" name="u_add_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADD_USER_ID" label="ADD_USER_ID" max_length="40" name="u_add_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COMPONENT" label="COMPONENT" max_length="40" name="u_component" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DESCRIPTION" label="DESCRIPTION" max_length="2081" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ITEM" label="ITEM" max_length="40" name="u_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LAST_USED_DATE" label="LAST_USED_DATE" max_length="40" name="u_last_used_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LAST_USED_TIME" label="LAST_USED_TIME" max_length="40" name="u_last_used_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MODIFY_DATETIME" label="MODIFY_DATETIME" max_length="40" name="u_modify_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PROBLEM_TYPE" label="PROBLEM_TYPE" max_length="40" name="u_problem_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SECURITY" label="SECURITY" max_length="40" name="u_security" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SEVERITY" label="SEVERITY" max_length="40" name="u_severity" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SOLUTION" label="SOLUTION" max_length="4534" name="u_solution" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SOLUTION_ID" label="SOLUTION_ID" max_length="40" name="u_solution_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SYSTEM" label="SYSTEM" max_length="40" name="u_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=USAGE_COUNT" label="USAGE_COUNT" max_length="40" name="u_usage_count" type="string"/>
+    </element>
+</database>
